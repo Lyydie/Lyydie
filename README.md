@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Lyydie/Lyydie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Lydia**, a 3rd-year AI Engineering student passionate about building intelligent systems and user-friendly applications.  
+I enjoy combining creativity with technical problem-solving, especially in AI and web development.
 
-Here are some ideas to get you started:
+## 💻 Projects I've Worked On
+- **Vroom** – A web development project focusing on interactive and responsive design.  
+- **AI Warehouse Optimization** – Implemented a simulated annealing algorithm to improve storage and retrieval efficiency.  
+- **Multilingual Job Matching (Hackathon)** – Developed the frontend for an NLP-based system that detects equivalent job listings across different languages.  
+  🏆 **Won 3rd place** at a national hackathon organized by **Wizara**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Interested In
+- Web Development (Frontend & Backend)  
+- Artificial Intelligence & Machine Learning  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Optimization Algorithms  
+- Human-Centered Design / UI/UX  
+
+## 🌱 Currently Learning
+- Advanced AI algorithms  
+- Modern frontend frameworks (React, Tailwind CSS)  
+- Deployment & version control best practices  
+
+## 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/lydia-khalem-073b4a306/
+- **Email:** lydia.khalem@ensia.edu.dz
