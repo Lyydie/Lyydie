@@ -7,7 +7,7 @@ I enjoy combining creativity with technical problem-solving, especially in AI an
 - **Vroom** – A web development project focusing on interactive and responsive design.  
 - **AI Warehouse Optimization** – Implemented a simulated annealing algorithm to improve storage and retrieval efficiency.  
 - **Multilingual Job Matching (Hackathon)** – Developed the frontend for an NLP-based system that detects equivalent job listings across different languages.  
-  🏆 **Won 3rd place** at a national hackathon organized by **Wizara**.
+  🏆 **Won 3rd place** at a national hackathon organized by **Ministry of Knowledge Economy and Startups during the Salon National de l’Auto-Entrepreneur**.
 
 ## 🚀 What I’m Interested In
 - Web Development (Frontend & Backend)  
